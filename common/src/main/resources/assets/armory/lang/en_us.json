@@ -126,43 +126,43 @@
 
     "miapi.module.boot_chain_left_crafted": "Left Chainmail Boot",
     "miapi.module.boot_chain_left_crafted.name": "[translation.[material.translation]]Chainmail Boots",
-    "miapi.module.boot_chain_left_crafted.description": "The left Boot protecting your left foot",
+    "miapi.module.boot_chain_left_crafted.description": "The left Boot protecting your left foot.\nProvides improved protection from projectiles.",
 
     "miapi.module.boot_chain_right_crafted": "Right Chainmail Boot",
     "miapi.module.boot_chain_right_crafted.name": "[translation.[material.translation]]Chainmail Boots",
-    "miapi.module.boot_chain_right_crafted.description": "A chainmail boot protecting your right foot",
+    "miapi.module.boot_chain_right_crafted.description": "A chainmail boot protecting your right foot.\nProvides improved protection from projectiles.",
 
     "miapi.module.leg_chain_left_crafted": "Left Chainmail Pants",
     "miapi.module.leg_chain_left_crafted.name": "[translation.[material.translation]]Left Chainmail Pants",
-    "miapi.module.leg_chain_left_crafted.description": "A chainmail pant protecting your left leg",
+    "miapi.module.leg_chain_left_crafted.description": "A chainmail pant protecting your left leg.\nProvides improved protection from projectiles.",
 
     "miapi.module.leg_chain_right_crafted": "Right Chainmail Pants",
     "miapi.module.leg_chain_right_crafted.name": "[translation.[material.translation]]Right Chainmail Pants",
-    "miapi.module.leg_chain_right_crafted.description": "A chainmail pant protecting your right leg",
+    "miapi.module.leg_chain_right_crafted.description": "A chainmail pant protecting your right leg.\nProvides improved protection from projectiles.",
 
     "miapi.module.belt_chain_crafted": "Chainmail Belt",
     "miapi.module.belt_chain_crafted.name": "[translation.[material.translation]]Chainmail Leggings",
-    "miapi.module.belt_chain_crafted.description": "A piece of chainmail to protect your underbelly and keep your pants high",
+    "miapi.module.belt_chain_crafted.description": "A piece of chainmail to protect your underbelly and keep your pants high.\nProvides improved protection from projectiles.",
 
     "miapi.module.arm_chain_left_crafted": "Left Chainmail-Sleeve",
     "miapi.module.arm_chain_left_crafted.name": "[translation.[material.translation]]Left Chainmail-Sleeve",
-    "miapi.module.arm_chain_left_crafted.description": "A piece of chainmail to protect your left arm",
+    "miapi.module.arm_chain_left_crafted.description": "A piece of chainmail to protect your left arm.\nProvides improved protection from projectiles.",
 
     "miapi.module.arm_chain_right_crafted": "Right Chainmail-Sleeve",
     "miapi.module.arm_chain_right_crafted.name": "[translation.[material.translation]]Right Chainmail-Sleeve",
-    "miapi.module.arm_chain_right_crafted.description": "A piece of chainmail to protect your right arm",
+    "miapi.module.arm_chain_right_crafted.description": "A piece of chainmail to protect your right arm.\nProvides improved protection from projectiles.",
 
     "miapi.module.front_chain_chestplate_crafted": "Chainmail Chestplate",
     "miapi.module.front_chain_chestplate_crafted.name": "[translation.[material.translation]]Chainmail Chestplate",
-    "miapi.module.front_chain_chestplate_crafted.description": "A piece of chainmail to protect your chest",
+    "miapi.module.front_chain_chestplate_crafted.description": "A piece of chainmail to protect your chest.\nProvides improved protection from projectiles.",
 
     "miapi.module.back_chain_chestplate_crafted": "Chainmail Backplate",
     "miapi.module.back_chain_chestplate_crafted.name": "[translation.[material.translation]]Chainmail Backplate",
-    "miapi.module.back_chain_chestplate_crafted.description": "A piece of chainmail to protect your back",
+    "miapi.module.back_chain_chestplate_crafted.description": "A piece of chainmail to protect your back.\nProvides improved protection from projectiles.",
 
     "miapi.module.helmet_chain_crafted": "Chainmail Helmet",
     "miapi.module.helmet_chain_crafted.name": "[translation.[material.translation]]Chain Helmet",
-    "miapi.module.helmet_chain_crafted.description": "A chainmail helmet to protect your head",
+    "miapi.module.helmet_chain_crafted.description": "A chainmail helmet to protect your head.\nProvides improved protection from projectiles.",
 
 
 
